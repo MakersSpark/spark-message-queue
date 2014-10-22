@@ -1,0 +1,25 @@
+{
+  "name": "spark-message-queue",
+  "version": "0.0.1",
+  "description": "Node.js messaging queuer for Spark Printer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakersSpark/spark-message-queue"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
